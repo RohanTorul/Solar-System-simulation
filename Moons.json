@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Moon": "Luna",
+        "Planet": "Earth",
+        "Mass (1024kg)": 0.07346,
+        "Eccentricity": 0.0549,
+        "periapsis(10e6Km)": 0.362,
+        "Apoapsis(10e6Km)": 0.4054,
+        "Orbital Period(days)": 27.3217,
+        "Orbital Inclination deg": 5.145
+    },
+    {
+        "Moon": "Phobos",
+        "Planet": "Mars",
+        "Mass (1024kg)": 1.07e-8,
+        "Eccentricity": 0.0151,
+        "periapsis(10e6Km)": 0.00924,
+        "Apoapsis(10e6Km)": 0.00952,
+        "Orbital Period(days)": 0.31891023,
+        "Orbital Inclination deg": 26.04
+    },
+    {
+        "Moon": "Demios",
+        "Planet": "Mars",
+        "Mass (1024kg)": 1.48e-9,
+        "Eccentricity": 0.00024,
+        "periapsis(10e6Km)": 0.0235,
+        "Apoapsis(10e6Km)": 0.0235,
+        "Orbital Period(days)": 1.263,
+        "Orbital Inclination deg": 27.58
+    }
+]
